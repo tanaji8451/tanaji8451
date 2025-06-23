@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Abdul Rahman Tanaji!
+### 👋 Hi, I'm AbdulRahman Tanaji!
 
 - 👨‍💻 Aspiring Software Engineer passionate about building clean, user-friendly applications.
 - 📱 Created **Darzi - Tailoring Management App** and **Scholar - Study Material App** using **Java** and **Android Studio**.
